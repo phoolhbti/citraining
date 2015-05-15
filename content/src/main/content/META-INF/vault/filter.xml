@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/citraining"/>
+    <filter root="/content/citraining"/>
+	<filter root="/etc/designs/citraining"/>
+	<filter root="/etc/designs/gcitraining"/>
+	<filter root="/etc/clientlibs/citraining"/>
+</workspaceFilter>
