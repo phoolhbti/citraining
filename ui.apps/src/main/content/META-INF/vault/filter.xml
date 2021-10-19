@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/citraining/clientlibs"/>
+    <filter root="/apps/citraining/components"/>
+    <filter root="/apps/citraining/i18n"/>
+    <filter root="/apps/sling" />
+</workspaceFilter>
